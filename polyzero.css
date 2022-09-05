@@ -1,0 +1,10 @@
+
+body {
+  background-color: #FFF;
+	background-image: linear-gradient(to bottom right, #FFF, #CCC);
+  font-family: "Gill Sans", sans-serif;
+  color: #555;
+  padding-top: 25px;
+  padding-left: 25px;
+  min-height: 100vh;
+}
