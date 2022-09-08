@@ -1,9 +1,23 @@
 body {
   background-color: #FFF;
-	background-image: linear-gradient(to bottom right, #FFF, #EEE);
-  font-family: "Gill Sans", sans-serif;
-  color: #555;
+	background-image: url("./images/plastic-background.png");
+  font-family: "Arial", sans-serif;
+  color: #222;
   padding-top: 25px;
   padding-left: 25px;
   min-height: 100vh;
+}
+div.header {
+  background: #FFF;
+  border: 1px black solid;
+  text-align: center;
+}
+div.quote {
+  margin-top: 25px;
+  margin-bottom: 25px;
+  padding: 10px;
+  padding-left: 25px;
+  padding-right: 25px;
+  background: #FFF;
+  border: 1px black solid;
 }
