@@ -1,6 +1,7 @@
 body {
   background-color: #FFF;
-	background-image: url("./images/plastic-background.png");
+	background-image: url("./images/fly-d-straws.jpg");
+  background-size: contain;
   font-family: "Arial", sans-serif;
   color: #222;
   padding-top: 25px;
